@@ -12,7 +12,7 @@ I'm passionate about technology, automation, and data analysis. I enjoy transfor
 
 ## Skills & Technologies:
 
-## 📫 Contato:
+## 📫 Contact:
 - LinkedIn: [https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/giovanna-bessa-4a85a3286/)
 - Email: giovanna.victoria.o.b@gmail.com
 
