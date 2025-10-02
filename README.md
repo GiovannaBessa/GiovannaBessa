@@ -1,6 +1,5 @@
-## Hi there, my name is Giovanna
-
-Welcome to my GitHub! 
+## Hello, I'm Giovanna🙂
+Welcome to my GitHub!
 
 I'm passionate about technology, automation, and data analysis. I enjoy transforming ideas into practical projects, primarily using Python and data analysis and manipulation tools.
 
@@ -11,7 +10,7 @@ I'm passionate about technology, automation, and data analysis. I enjoy transfor
 - Apaixonada por criar soluções que facilitem o dia a dia
 - Sempre aprendendo novas tecnologias e aprimorando habilidades
 
-## Technologies & Skills:
+## Skills & Technologies:
 
 ## 📫 Contato:
 - LinkedIn: [https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/giovanna-bessa-4a85a3286/)
