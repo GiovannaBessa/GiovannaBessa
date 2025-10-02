@@ -1,5 +1,23 @@
-### Hi there 👋
+## Hi there 👋 my name is Giovanna
 
+Welcome to my GitHub! 🌟
+
+I'm passionate about technology, automation, and data analysis. I enjoy transforming ideas into practical projects, primarily using Python and data analysis and manipulation tools.
+
+
+## 💻 About me:
+- Estudante / Profissional em tecnologia
+- Entusiasta de **automação de processos** e **data science**
+- Apaixonada por criar soluções que facilitem o dia a dia
+- Sempre aprendendo novas tecnologias e aprimorando habilidades
+
+## 🛠️ Technologies & Skills:
+
+## 📫 Contato:
+- LinkedIn: [https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/giovanna-bessa-4a85a3286/)
+- Email: giovanna.victoria.o.b@gmail.com
+
+### ✨ “Sempre aprendendo, sempre criando!”
 <!--
 **GiovannaBessa/GiovannaBessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
