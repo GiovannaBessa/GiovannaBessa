@@ -1,4 +1,4 @@
-## Olá, Eu me chamo Giovanna 🙂
+## Olá, eu me chamo Giovanna 🙂
 Bem-vindo ao meu GitHub!
 
 Sou apaixonado por tecnologia, automação e análise de dados. Gosto de transformar ideias em projetos práticos, principalmente usando Python e ferramentas de análise e manipulação de dados.
