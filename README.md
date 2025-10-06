@@ -16,7 +16,8 @@ Sou apaixonado por tecnologia, automação e análise de dados. Gosto de transfo
 - **Outros:**
 
 ## 📫 Contato:
-- LinkedIn: [https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/giovanna-bessa-4a85a3286/)
+<a href = [https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/giovanna-bessa-4a85a3286/)><img scr=![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)/></a>
+
 - Email: giovanna.victoria.o.b@gmail.com
 
 ### Sempre aprendendo, sempre criando!✨
